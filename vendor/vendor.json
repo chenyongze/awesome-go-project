@@ -1,0 +1,37 @@
+{
+	"comment": "",
+	"ignore": "test",
+	"package": [
+		{
+			"checksumSHA1": "2UmMbNHc8FBr98mJFN1k8ISOIHk=",
+			"path": "github.com/garyburd/redigo/internal",
+			"revision": "569eae59ada904ea8db7a225c2b47165af08735a",
+			"revisionTime": "2018-04-04T16:07:26Z"
+		},
+		{
+			"checksumSHA1": "3kM5bMyfqvdCfgQdOb01CR1aA74=",
+			"path": "github.com/garyburd/redigo/redis",
+			"revision": "569eae59ada904ea8db7a225c2b47165af08735a",
+			"revisionTime": "2018-04-04T16:07:26Z"
+		},
+		{
+			"checksumSHA1": "gAXWzCBVsk4H5FTYCIhCwOSvioU=",
+			"path": "github.com/go-sql-driver/mysql",
+			"revision": "ceae19ce1c5ac766abad8db04d649a7a83e91ced",
+			"revisionTime": "2018-05-23T13:44:17Z"
+		},
+		{
+			"checksumSHA1": "bUqy9i5qUKJ05XeI6ZaccYeLOSA=",
+			"path": "github.com/streadway/amqp",
+			"revision": "8e4aba63da9fc5571e01c6a45dc809a58cbc5a68",
+			"revisionTime": "2018-03-15T18:46:02Z"
+		},
+		{
+			"checksumSHA1": "PKuaYUr6xKDdKbn+iCEhq1zxNyg=",
+			"path": "github.com/zheng-ji/gophone",
+			"revision": "19e8af0ebcb3cc835c613e057d20b16776513b93",
+			"revisionTime": "2015-12-04T07:53:28Z"
+		}
+	],
+	"rootPath": "awesome-project"
+}
